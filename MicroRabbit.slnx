@@ -1,0 +1,26 @@
+<Solution>
+  <Folder Name="/Domain/">
+    <Project Path="MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj" Id="6d2d4596-315a-4336-8a1d-19809fcd5b52" />
+  </Folder>
+  <Folder Name="/Infra.Bus/">
+    <Project Path="MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj" Id="1a0bef3a-9d76-489b-a82f-e9be2f6bb5e7" />
+  </Folder>
+  <Folder Name="/Infra.IoC/">
+    <Project Path="MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj" Id="5a54b8e2-7665-498f-84a7-916907c47fff" />
+  </Folder>
+  <Folder Name="/Microservice/" />
+  <Folder Name="/Microservice/Banking/" />
+  <Folder Name="/Microservice/Banking/Api/">
+    <Project Path="MicroRabbit.Banking.Api/MicroRabbit.Banking.Api.csproj" />
+  </Folder>
+  <Folder Name="/Microservice/Banking/Application/">
+    <Project Path="MicroRabbit.Banking.Application/MicroRabbit.Banking.Application.csproj" Id="70b138bd-cf2f-4e2e-a999-f951a4914d7d" />
+  </Folder>
+  <Folder Name="/Microservice/Banking/Data/">
+    <Project Path="MicroRabbit.Banking.Data/MicroRabbit.Banking.Data.csproj" Id="0f82aa42-6b08-4324-bce1-cbe6b5a6bed7" />
+  </Folder>
+  <Folder Name="/Microservice/Banking/Domain/">
+    <Project Path="MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj" Id="b0d0548e-a4ea-421f-be3c-74285ada6c26" />
+  </Folder>
+  <Folder Name="/Presentation/" />
+</Solution>
